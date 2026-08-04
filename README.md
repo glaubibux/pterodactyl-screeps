@@ -3,7 +3,7 @@
 A community [Pterodactyl](https://pterodactyl.io/) egg for running a private [Screeps: World](https://www.screeps.com/) server.
 
 > [!IMPORTANT]
-> This is not an official Screeps or Pterodactyl project. The server and included mods are pinned to specific versions because native Screeps dependencies are sensitive to Node.js and compiler changes.
+> The server and included mods are pinned to specific versions because native Screeps dependencies are sensitive to Node.js and compiler changes.
 
 ## Features
 
